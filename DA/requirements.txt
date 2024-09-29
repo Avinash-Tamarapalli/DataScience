@@ -1,0 +1,11 @@
+openpyxl
+lxml
+sqlalchemy
+html5lib
+BeautifulSoup4
+matplotlib
+seaborn
+pillow
+dateutil
+pytz
+pyparsing
