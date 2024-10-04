@@ -4,10 +4,8 @@ tensor
 matplotlib
 seaborn
 scipy
-<<<<<<< HEAD
-ipykernel
-=======
 ipykernel
 plotly
 cufflinks
->>>>>>> learning
+
+
