@@ -3,3 +3,7 @@ panda
 tensor
 matplotlib
 seaborn
+scipy
+ipykernel
+plotly
+cufflinks
