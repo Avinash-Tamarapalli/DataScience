@@ -7,5 +7,5 @@ scipy
 ipykernel
 plotly
 cufflinks
-
-
+chart-studio
+scikit-learn
